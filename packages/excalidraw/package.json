@@ -1,6 +1,6 @@
 {
-  "name": "@excalidraw/excalidraw",
-  "version": "0.17.1",
+  "name": "ejazkhan10/excalidraw",
+  "version": "0.17.2",
   "main": "./dist/prod/index.js",
   "type": "module",
   "module": "./dist/prod/index.js",
@@ -23,7 +23,7 @@
     "access": "public"
   },
   "description": "Excalidraw as a React component",
-  "repository": "https://github.com/excalidraw/excalidraw",
+  "repository": "https://github.com/ejazkhan10/excalidraw",
   "license": "MIT",
   "keywords": [
     "excalidraw",
